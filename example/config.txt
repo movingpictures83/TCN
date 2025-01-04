@@ -1,0 +1,2 @@
+Prefix plugins/TCN/example/
+Plugin TCN inputfile data/ outputfile WaLeF_tcn.h5
